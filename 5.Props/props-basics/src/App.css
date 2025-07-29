@@ -1,0 +1,16 @@
+/* .new-color{
+  background-color: rgb(218, 160, 218) !important;
+}
+
+.spanID{
+  font-weight: 500;
+  color:rgb(2, 2, 61);
+} */
+
+/* This two class is basically from FoodItem.jsx file so we can use css modules for this make file name FoodItem.module.css and then import it into FoodItem.jsx  */
+
+
+.main-heading{
+  background-color: rgb(140, 208, 140);
+  color: black;
+}
